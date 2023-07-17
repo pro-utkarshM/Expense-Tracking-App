@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-mdpi_app_icon_round.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-mdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-xhdpi_app_icon.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_insight.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/insight.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_blank_list.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/blank_list.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/font_manrope_regular.otf.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/font/manrope_regular.otf"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_investment.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/investment.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-hdpi_app_icon_round.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-hdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_pop_up.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/pop_up.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_collapse.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/collapse.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_misc.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/misc.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_baseline_account_balance_wallet_24.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/baseline_account_balance_wallet_24.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_travel.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/travel.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_health.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/health.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_donut.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/donut.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_xpense_launcher_foreground.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/xpense_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_income.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/income.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_expense.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/expense.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_snack.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/snack.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_app_icon_foreground.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/app_icon_foreground.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/font_manrope_bold.otf.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/font/manrope_bold.otf"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_setting.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/setting.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-xxxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_bank.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/bank.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_enter.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/enter.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_clothing.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/clothing.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_edit.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/edit.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-mdpi_app_icon.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_friends.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/friends.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_cash.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/cash.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_account.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/account.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_home.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/home.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_pet.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/pet.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_lottery.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/lottery.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-xhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_decision.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/decision.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_add_entry.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/add_entry.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_entry.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/entry.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_add_cat.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/add_cat.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_gift.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/gift.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_leisure.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/leisure.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_business.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/business.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_electricity.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/electricity.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_taxi.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/taxi.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_gadget.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/gadget.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_vehicle.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/vehicle.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-xxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/font_manrope_extrabold.otf.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/font/manrope_extrabold.otf"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_credit_card.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/credit_card.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_main_home.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/main_home.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_school.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/school.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_drink.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/drink.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_remove.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/remove.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_grocery.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/grocery.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_clear.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/clear.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/font_manrope_medium.otf.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/font/manrope_medium.otf"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_checked.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/checked.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_sub.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/sub.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/drawable_info_warning.xml.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/drawable/info_warning.xml"
+    },
+    {
+        "merged": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/build/intermediates/merged_res/debug/mipmap-hdpi_app_icon.png.flat",
+        "source": "/home/utkarsh/AndroidStudioProjects/Expense Tracker/app/src/main/res/mipmap-hdpi/app_icon.png"
+    }
+]
