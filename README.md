@@ -17,7 +17,7 @@ To use the Expense Tracking App, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/expense-tracking-app.git
+   git clone https://github.com/pro-utkarshM/Expense-Tracking-App.git
    ```
 
 2. Open the project in an Android development environment (e.g., Android Studio).
